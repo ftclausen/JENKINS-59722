@@ -36,7 +36,7 @@ apply plugin: 'codenarc'
 apply plugin: 'com.here.jobdsl'
 
 project.ext {
-  jenkinsVersion = '2.190.1'
+  jenkinsVersion = '2.195'
 
   groovyVersion = '2.4.15'
   jobDslVersion = '1.76'
