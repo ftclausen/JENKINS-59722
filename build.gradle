@@ -56,8 +56,8 @@ dependencies {
           'org.slf4j:slf4j-simple:1.7.25'
 
   // Uncomment below to trigger usage of Jenkins war bundled plugins
-  jenkinsPlugins 'org.jenkins-ci.plugins:scm-api:2.6.3'
-  jenkinsPlugins 'org.jenkins-ci.plugins:git:3.12.1'
+  // jenkinsPlugins 'org.jenkins-ci.plugins:scm-api:2.6.3'
+  // jenkinsPlugins 'org.jenkins-ci.plugins:git:3.12.1'
 
   testCompile 'org.hamcrest:hamcrest-all:1.3'
 }
